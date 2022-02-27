@@ -1,0 +1,6 @@
+{
+  "knownlogin": "Привет, %person!",
+  "unknownlogin": "Привет, %person, приятно тебя видеть!",
+  "title": "Распознавание лиц",
+  "stranger": "незнакомец"
+}

@@ -1,0 +1,38 @@
+/*
+ *
+ * MMM-Face-Multi-User-Recognition-SMAI
+ *
+ * 
+ * MIT Licensed.
+ *
+ * Custom here your css module
+ *
+ */
+.face-image {
+    width: 200px;
+    height: auto;
+}
+
+.face-image img {
+    width: 70%;
+    height: auto;
+	border: 1px solid #DDDDDD;      
+	border-radius: 20% 20% 20% 20%;      
+	padding: 4px; 
+}
+
+.face-image {
+    font-size: 18px;
+}
+
+.face-image.left {
+    margin: 0 auto 0 0;
+}
+
+.face-image.center {
+    margin: 0 auto;
+}
+
+.face-image.right {
+    margin: 0 0 0 auto;
+}
