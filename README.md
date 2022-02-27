@@ -53,3 +53,5 @@ As now most of the houses are automated and this mirror will be a Admin console 
 ## Video
 
 https://drive.google.com/file/d/14Acx2jY3l2Ak4Ms19vlsfSn8zLUo6vDj/view?usp=drivesdk
+
+https://vimeo.com/682538416
