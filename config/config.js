@@ -117,7 +117,7 @@ var config = {
 		    debug: false,
 		    assistantConfig: {
 		    lang: "en-US",
-		    projectId: "smart-mirror-cc92c", // Required to use gaction.
+		    projectId: "", // Required to use gaction.
 		    modelId: "", // (OPTIONAL for gaction)
 		    instanceId: "", // (OPTIONAL for gaction)
 		    latitude: 13.08784,
