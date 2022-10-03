@@ -46,6 +46,11 @@ We too use mirror everyday, but when we use it we would also use our mobile to c
 * A bit of robotics
 * And Finally Linux
 
+## The Main Aspects of the ML Modal
+
+* The Pycamera looks for a face then signals the Raspberrypi to run the modal and identify the face and display their respective dashboard.
+* It can be programmed with n number of faces and it only runs the modal when it sees a face in the camera
+
 ## Future Scope
 
 As now most of the houses are automated and this mirror will be a Admin console and also in the future we can add an IR frame and detect touches and this project provides the perfect solution for our day to day life problem while getting ready and luckily it also has personalized dashboards for each user or profiles. Most of us already have Alexa or Google Assistant in our houses but this combines the work of A Mirror , A Admin Console, A Voice assistant and also  A Streaming device. Can you say someone who doesn’t want to automate his house to be like Tony Stark’s AKA The Iron Man at a low cost.
